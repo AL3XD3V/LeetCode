@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Runtime: 32 ms, faster than 86.96% of PHP online submissions for Median of Two Sorted Arrays.
+ * Memory Usage: 15.8 MB, less than 95.65% of PHP online submissions for Median of Two Sorted Arrays.
+ */
 class Solution {
 
     /**

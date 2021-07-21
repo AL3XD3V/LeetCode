@@ -1,3 +1,7 @@
+/**
+ * Runtime: 252 ms, faster than 95.13% of Kotlin online submissions for Median of Two Sorted Arrays.
+ * Memory Usage: 45.9 MB, less than 61.69% of Kotlin online submissions for Median of Two Sorted Arrays.
+ */
 class Solution {
     fun findMedianSortedArrays(nums1: IntArray, nums2: IntArray): Double {
         var nums1length = nums1.size;

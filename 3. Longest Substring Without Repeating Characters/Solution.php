@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Runtime: 236 ms, faster than 32.84% of PHP online submissions for Longest Substring Without Repeating Characters.
+ * Memory Usage: 15.6 MB, less than 79.70% of PHP online submissions for Longest Substring Without Repeating Characters.
+ */
 class Solution {
 
     /**
